@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Jahid Hasan</h1>
-<h3 align="center">CS sutdent</h3>
+<h3 align="center">I am a CS student who is fascinated by the power of programming and its ability to solve real-world problems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0jahid&label=Profile%20views&color=0e75b6&style=flat" alt="0jahid" /> </p>
 
