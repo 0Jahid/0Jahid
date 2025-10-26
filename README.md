@@ -12,7 +12,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/dd6049cbfc669f12dfeda7ee3e2fc9787c49b5a61a7dc0ed202f70c9218b99e0/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d7665746963616c267468656d653d7261646963616c">
 
 ### 👨‍💻 About Me
 
