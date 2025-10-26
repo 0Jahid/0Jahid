@@ -136,6 +136,6 @@ fun_fact: "I may be funny 😄"
   
   ### Show some ❤️ by starring some repositories!
   
-  ![Snake animation](https://raw.githubusercontent.com/0jahid/0jahid/output/github-contribution-grid-snake-dark.svg)
+ ![Snake animation](https://raw.githubusercontent.com/0jahid/0jahid/output/github-contribution-grid-snake-dark.svg)
   
 </div>
